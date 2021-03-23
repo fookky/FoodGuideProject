@@ -6,6 +6,7 @@ import Insertmenu from "views/insertmenu.jsx";
 import { Link } from 'react-router-dom';
 import { Line, Pie } from "react-chartjs-2";
 // reactstrap components
+// test p
 import { Col, Card, Row} from "react-bootstrap";
 import {
   Button,
